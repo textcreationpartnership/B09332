@@ -1,0 +1,407 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Hereford, or, A wonderful and terrible earthquake: vvith a wonderful thunder-clap, that happened on Tuesday being the first of October, 1661.  Shewing how a church-steeple, and many gallant houses were thrown down to the ground, and people slain : with a terrible thunder-clap and violent storms of great hailstone, which were about the bigness of an egg, many cattel being utterly destroy'd as they were being utterly destroy'd as they were feeding in the field.  Also the wonderful apparitions which were seen in the air to the great amazement of the beholders, who beheld two perfect arms and hands; in the right hand being grasped a great broad sword, in the left a beul full of blood, from whence they heard a most strange noise, to the wonderful astonishment of al present, the fright caused divers women to fall in travail; among whom the clerks wife one Margaret Pellmore, fell in labour, and brought forth 3 children who had teeth and spoke as soon as ever they were born, as you shall hear in the following relation, the like not known in any age.  The tune is, Aim not too high.</title>
+            <author>W. K.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09332</idno>
+            <idno type="STC">Wing K26A</idno>
+            <idno type="STC">ESTC R179290</idno>
+            <idno type="EEBO-CITATION">64551341</idno>
+            <idno type="OCLC">ocm 64551341</idno>
+            <idno type="VID">184621</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09332)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184621)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2868:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Hereford, or, A wonderful and terrible earthquake: vvith a wonderful thunder-clap, that happened on Tuesday being the first of October, 1661.  Shewing how a church-steeple, and many gallant houses were thrown down to the ground, and people slain : with a terrible thunder-clap and violent storms of great hailstone, which were about the bigness of an egg, many cattel being utterly destroy'd as they were being utterly destroy'd as they were feeding in the field.  Also the wonderful apparitions which were seen in the air to the great amazement of the beholders, who beheld two perfect arms and hands; in the right hand being grasped a great broad sword, in the left a beul full of blood, from whence they heard a most strange noise, to the wonderful astonishment of al present, the fright caused divers women to fall in travail; among whom the clerks wife one Margaret Pellmore, fell in labour, and brought forth 3 children who had teeth and spoke as soon as ever they were born, as you shall hear in the following relation, the like not known in any age.  The tune is, Aim not too high.</title>
+                  <author>W. K.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, and W. Gilbertson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184621:1" rendition="simple:additions"/>
+            <pb facs="tcp:184621:2" rendition="simple:additions"/>
+            <head>Newes from Hereford.</head>
+            <argument>
+               <p>OR, A wonderful and terrible Earthquake: VVith a wonderful Thunder-clap, that happened on <hi>Tueſday</hi> being the firſt of <hi>October,</hi> 1661. Shewing how a Church-ſteeple, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd many g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llant houſes were thrown down to the ground, and people ſlain: With a Terrible Thunder-clap, and violent Storms of great Hailſtone, which were a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the bigneſs of an Egg, many Cattel being utterly deſtroy'd as they were f<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ding in the field. Alſo the wonderful Apparitions which were ſeen in <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> into the great amazement of the Beholders, who beheld two perfect <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ms and hands; in the right hand being graſpd a great broad ſword, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the left a b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul full of Blood, from whence they heard a moſt <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nge noiſe, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the wonderful aſtoniſhment of al preſent, the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight cauſed divers women to fall in Travail; amongſt whom <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Clerks wife one <hi>Margaret Pellmore,</hi> fell in labour, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rought forth 3 children, who had teeth; and ſpake as ſoon as ever they were born, as you ſhall hear in the following relation, the like not known in any age.</p>
+            </argument>
+            <opener>The Tune is, <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m not too high.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <p>Repent</p>
+               </figure>
+            </p>
+            <lg>
+               <l>OLd <hi>England</hi> of thy ſins in time repent</l>
+               <l>Before the wrath of God to thée is ſent,</l>
+               <l>For ſuch great wonders in late time have béen,</l>
+               <l>The like before I think was never ſeen.</l>
+            </lg>
+            <lg>
+               <l>But this which here to you I ſhall unfold,</l>
+               <l>It is the ſtrangeſt thing that ere was told,</l>
+               <l>Yet not ſo ſtrange but that it is as true,</l>
+               <l>Yea every word I dedicate to you.</l>
+            </lg>
+            <lg>
+               <l>On <hi>Tueſday</hi> laſt <hi>October</hi> the firſt day,</l>
+               <l>In <hi>Herefordſhire</hi> there happened ſuch a fray,</l>
+               <l>By a moſt terrible Earthquake that did hap,</l>
+               <l>And violent ſtorms too by a Thunder-clap.</l>
+            </lg>
+            <lg>
+               <l>About two of the clock i'th Afternoon,</l>
+               <l>There did ariſe a violent ſtorm right ſoon,</l>
+               <l>The Air did darken, and did look unkind,</l>
+               <l>Then roſe the ſtorm and a high mighty wind.</l>
+            </lg>
+            <lg>
+               <l>Which for two hours ſpace moſt vehemently</l>
+               <l>It mad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the tyles from off o'th houſen fly</l>
+               <l>And v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hemently it did blow and tear.</l>
+               <l>That people durſt not to go out of door.</l>
+            </lg>
+            <lg>
+               <l>And by this ſtorm Church-ſtéeples were blown down,</l>
+               <l>The <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ioſt of famous <hi>Hereford</hi> Town</l>
+               <l>Beſides moſt famous houſes great and ſmall,</l>
+               <l>Did by this Tempeſt and the Earthquake fall.</l>
+            </lg>
+            <lg>
+               <l>And by the houſes fall much blood was ſpill'd,</l>
+               <l>For many men ond women too were kill'd,</l>
+               <l>By this moſt ſudd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Accident I ſay</l>
+               <l>And fearful chance and lamentable fray.</l>
+            </lg>
+            <lg>
+               <l>After this mighty Tempeſt it was paſt</l>
+               <l>The Air did ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m to clear then a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the laſt;</l>
+               <l>And people did look ou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on the Air,</l>
+               <l>And all the Element beg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o clear.</l>
+            </lg>
+            <lg>
+               <l>But preſently it ov<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcaſt again</l>
+               <l>At ſix or ſeven a clock with might and main,</l>
+               <l>Towards the Eveni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g it began to hail.</l>
+               <l>Which made y<hi rend="sup">e</hi> peoples hearts more ſore to quail</l>
+            </lg>
+            <lg>
+               <l>The hailſtones full as big as Eggs were ſéen,</l>
+               <l>The like in <hi>England</hi> nere before hath béen.</l>
+               <l>No tyles nor ſtones could make y<hi rend="sup">e</hi> hardneſs yield</l>
+               <l>It did deſtroy the cattel in the field.</l>
+            </lg>
+            <lg>
+               <l>Then followed a terrible Earthquake,</l>
+               <l>Which made the ground and houſes for to ſhake</l>
+               <l>And did continue half an hours ſpace,</l>
+               <l>It many famous buildings did deface.</l>
+            </lg>
+            <lg>
+               <l>And ſurely did amaze both all and ſome.</l>
+               <l>The p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople thought that the laſt day was come</l>
+               <l>Immed<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tely a Brightneſs did appear,</l>
+               <l>And as Noon-day it ſeemed 'twas ſo clear.</l>
+            </lg>
+            <pb facs="tcp:184621:2" rendition="simple:additions"/>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THen preſently the Air againſt clouds,</l>
+               <l>with a thick darkneſs overſpred with clouds</l>
+               <l>And out of which appear'd two arms and hands,</l>
+               <l>At which amazement thouſands people ſtand.</l>
+            </lg>
+            <lg>
+               <l>And gluts their eyes with fulneſs of this fight.</l>
+               <l>When they beheld in thoſe two hands that night</l>
+               <l>In y<hi rend="sup">e</hi> right hand was graſp'd a great broad ſword</l>
+               <l>And in the left a cup of crimſon blood.</l>
+            </lg>
+            <lg>
+               <l>Another wonder appear'd from theſe Skies,</l>
+               <l>Which was beh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld by thouſand peoples eyes,</l>
+               <l>There ſéem'd to them a piece of Corn to grow,</l>
+               <l>And in this ſight ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m'd ready for to mow.</l>
+            </lg>
+            <lg>
+               <l>And ready for to mow't a Sy<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e lay <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</l>
+               <l>And from the place came a moſt mighty cry,</l>
+               <l>Which ſaid wo, wo to man that draweth breath</l>
+               <l>And the Inhabitants of all the Earth.</l>
+            </lg>
+            <lg>
+               <l>At the concluſion of this mighty ſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht,</l>
+               <l>It fearfully did men and women fright,</l>
+               <l>Women with child which in that town did dwel</l>
+               <l>A many into labour preſent fell.</l>
+            </lg>
+            <lg>
+               <l>Amongſt the reſt and ſtrangeſt too of all,</l>
+               <l>Vnto one <hi>Margret Pellmore</hi> did befall,</l>
+               <l>The Clerks wife of the Town as I am told,</l>
+               <l>Who bor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 3 children the like was nere unfold.</l>
+            </lg>
+            <lg>
+               <l>Theſe children they had téeth and ſpake as ſoon</l>
+               <l>As ever they into the world did come,</l>
+               <l>Theſe words as followe di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from them proceed</l>
+               <l>The ſame is verify'd for truth indeed.</l>
+            </lg>
+            <lg>
+               <l>The firſt did ſay this d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y no man can ſhun,</l>
+               <l>Which is appointed and not yet begun:</l>
+               <l>Where will be found the ſecond child it ſaid</l>
+               <l>Sufficient men alive to bury the dead?</l>
+            </lg>
+            <lg>
+               <l>Theſe words did then from the 3d. child procéed</l>
+               <l>Where will be corn enough to ſatisfy your néed?</l>
+               <l>Theſe were the words they ſaid at that ſame tyd</l>
+               <l>And preſently all theſe three children dy'd.</l>
+            </lg>
+            <lg>
+               <l>What man is able in our E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gliſh Land</l>
+               <l>The meaning of theſe things to underſtand?</l>
+               <l>It doth b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>token anger great from God,</l>
+               <l>How he will ſmite us with his heavy Rod.</l>
+            </lg>
+            <lg>
+               <l>Except by prayer we ſpeedily repent,</l>
+               <l>And of our wicked ſins for to relent,</l>
+               <l>The cup of blood appeared in the Sky,</l>
+               <l>And ſharp edg'd ſword great wars doth ſignifie.</l>
+            </lg>
+            <lg>
+               <l>The childrens words do mean great ſickneſſes,</l>
+               <l>And to this land the Lord will ſend great cries,</l>
+               <l>For to fulfill all what the children ſaid,</l>
+               <l>The living ſcaace be able to bury the dead.</l>
+            </lg>
+            <lg>
+               <l>The Famine ſo ſhall poveriſh to the Land,</l>
+               <l>Thus ſhall we feel Gods wrathful heavy hand.</l>
+               <l>Theſe are but warning-pieces to you all,</l>
+               <l>Therefore repent good people great and ſmall.</l>
+            </lg>
+            <lg>
+               <l>Your ſelves be ſure fail not to prepare,</l>
+               <l>To méet the Lord a comming i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Air</l>
+               <l>Give praiſe &amp; thanks ſo long as you have breath</l>
+               <l>Vnto your mighty God of Heaven and Earth.</l>
+            </lg>
+            <byline>By W. K.</byline>
+         </div>
+         <div type="list_of_witnesses">
+            <head>A Liſt of the names of the perſons that witneſ<g ref="char:EOLhyphen"/>ſeth the truth of this, are as followeth.</head>
+            <list>
+               <item>
+                  <list>
+                     <head>Churchwardens.</head>
+                     <item>Fran. Smalman.</item>
+                     <item>Hen. Croſs, </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Conſtables.</head>
+                     <item>Peter Philpot.</item>
+                     <item>Nich. Finch,</item>
+                  </list>
+               </item>
+               <item>James Tully.</item>
+               <item>Geo. Cox Gent.</item>
+               <item>John Groom.</item>
+               <item>Robert Mauricee.</item>
+               <item>Thomas Welford</item>
+            </list>
+            <p>And divers others, too many to be here in<g ref="char:EOLhyphen"/>ſerted.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>F.</hi> Coles, T. <hi>Vere;</hi> and <hi>W.</hi> Gilbertſon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
